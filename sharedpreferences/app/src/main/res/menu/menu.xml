@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:title="first"
+        android:id="@+id/first">
+    </item>
+    <item
+        android:title="second"
+        android:id="@+id/second">
+    </item>
+    <item
+        android:title="third"
+        android:id="@+id/third">
+    </item>
+    <item
+        android:id="@+id/h"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="hell"
+        app:showAsAction="always"></item>
+    <item
+        android:id="@+id/h2"
+        android:icon="@mipmap/ic_launcher"
+        android:title="hell"
+        app:showAsAction="always"></item>
+
+</menu>
